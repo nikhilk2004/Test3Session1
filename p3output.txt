@@ -1,1 +1,6 @@
 
+gcc -g p3original.c
+ ./a.out
+enter the values of n and r5
+2
+the value of 5c2 is 10 
